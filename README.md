@@ -1,14 +1,11 @@
 # domain-name-lists
 
-Useful word list and TLD lists for prospectors and operators alike.
+Useful word lists and TLD lists for prospectors and operators alike. I use these daily, thought it might be of some help to other in the domain space.
 
-**ccTLDs.csv (Key)**
 
-- AF = Africa
 
-- AP = Asia/Australia/Pacific
-- AQ = Antarctica
-- EUR = Europe
-- LAC = Latin America/ Caribbean
-- NA = North America
-
+Culled from various sources across the web:
+http://www.allscrabblewords.com/
+https://www.bestwordlist.com/
+https://www.icann.org/
+http://www.poslarchive.com/
