@@ -1,6 +1,10 @@
 # ccTLDs - All
 
-**Key**
+Helpful for understanding all the ccTLDs out there and which regions they slot into.
+
+
+
+Key**
 
 - AF = Africa
 
