@@ -1,6 +1,6 @@
 # domain-name-lists
 
-Useful word lists and TLD lists for prospectors and operators alike. I use these daily, thought it might be of some help to other in the domain space.
+Useful word lists and TLD lists for prospectors and operators alike. I use these daily, thought it might be of some help to others in the domain space.
 
 
 
