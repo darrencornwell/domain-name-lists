@@ -6,6 +6,7 @@ Useful number, letter and word lists for domain searching and testing of registr
 - 002 - Number Lists, NN, NNN and NNNN
 - 003 - Word Lists, English 4 - 8 Characters
 - 004 - ccTLD List
+- 005 - Merged Lists
 
 Culled from various sources across the web:
 
